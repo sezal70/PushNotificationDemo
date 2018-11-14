@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "209276696607",
+    "firebase_url": "https://push-notification-82f5a.firebaseio.com",
+    "project_id": "push-notification-82f5a",
+    "storage_bucket": "push-notification-82f5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209276696607:android:bd074a7016a79285",
+        "android_client_info": {
+          "package_name": "com.sejal.pushnotificationdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209276696607-dsaupgf3rdmrtlrf2fcqj5cbtrqjm46a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxsD6vBTD-KK9cykroNqIEAFBVKcGPf3g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
